@@ -1,0 +1,2 @@
+56acea7e49f7586153da2655f4abcce5  ./app/code/core/Mage/Api/Model/Server/Adapter/Soap.php
+26d28e93d6b9e3cb0daec8c0561b33a0  ./app/code/core/Mage/Catalog/Model/Product/Api/V2.php
